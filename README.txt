@@ -1,3 +1,3 @@
-Contributors: Eric Di Tomasso
+# drum app
 
-Drum App
+Construct custom drum kits using a sample library, record and save tracks to your account.
